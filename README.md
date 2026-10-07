@@ -43,9 +43,16 @@ Gerenciamento de estado de vida e contadores independentes para cada um dos 4 pa
 Como Executar o Projeto
 Clone este repositório:
 
-Bash
-git clone https://github.com/SEU_USUARIO/ContadorMTG.git
-Abra o projeto no Android Studio (versão recomendada: Iguana ou superior).
+```bash
+# Clone o repositório
+git clone [https://github.com/usuario/projeto.git](https://github.com/usuario/projeto.git)
+
+# Acesse o diretório
+cd projeto
+
+# Instale as dependências
+npm install
+```
 
 Aguarde a sincronização das dependências do Gradle.
 
